@@ -1,0 +1,15 @@
+.nav-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 1rem;
+}
+
+.nav-item {
+    margin: 1rem;
+    text-transform: uppercase;
+    color: white;
+    text-decoration: none;
+    font-family: "Arial Black";
+    opacity: 0.85;
+}
